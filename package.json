@@ -5,7 +5,7 @@
   "main": "islive.js",
   "dependencies": {
     "minimist": "^1.2.0",
-    "lodash": "^3.10.1"
+    "lodash": "^4.17.20"
   },
   "devDependencies": {},
   "scripts": {
